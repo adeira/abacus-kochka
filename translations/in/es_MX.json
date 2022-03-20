@@ -1,4 +1,15 @@
 {
  "fb-locale": "es_MX",
- "translations": []
+ "translations": {
+  "4aOHtYbmcWhHdi94aqvM3g==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Contribución voluntaria",
+     "variations": []
+    }
+   ]
+  }
+ }
 }
