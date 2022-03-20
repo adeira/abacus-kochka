@@ -131,12 +131,32 @@
     }
    ]
   },
+  "qhyxBCe/pUVDATLDYaNRug==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Martes - Domingo 12pm - 9pm",
+     "variations": []
+    }
+   ]
+  },
   "01L7L5zx9XKSlIfQTGdfVg==": {
    "tokens": [],
    "types": [],
    "translations": [
     {
      "translation": "Calle Tonalá 346, Roma Sur, Cuauhtémoc, 06760, CDMX, Mexico",
+     "variations": []
+    }
+   ]
+  },
+  "EdoLPwaSsscEQmOCmVmdmA==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Vacantes laborales",
      "variations": []
     }
    ]
@@ -271,6 +291,16 @@
     }
    ]
   },
+  "2/2YfHIOTQBPe2NN5iDzHA==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Adopciones",
+     "variations": []
+    }
+   ]
+  },
   "d/e8AfwzGWzIJOwgxriEMg==": {
    "tokens": [],
    "types": [],
@@ -291,12 +321,112 @@
     }
    ]
   },
+  "sY3J2OVXDvprP9Yw1wPdWQ==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Contribuciones",
+     "variations": []
+    }
+   ]
+  },
+  "Z1d6qX2L0fKBN6cEnxEOOw==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Vacantes laborales",
+     "variations": []
+    }
+   ]
+  },
+  "vowqupCy07qqoGcmRVowvw==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "¿Te gustaría trabajar con nosotros?",
+     "variations": []
+    }
+   ]
+  },
+  "JUWZIyIEqdy3pM7BrD7V3A==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "El ayudante de cafetería es responsable del servicio al cliente, mantener las instalaciones limpias y asistir en la preparación de alimentos.",
+     "variations": []
+    }
+   ]
+  },
   "1Czq0yZJzTcsPfK/OZGAPg==": {
    "tokens": [],
    "types": [],
    "translations": [
     {
      "translation": "Barista",
+     "variations": []
+    }
+   ]
+  },
+  "lAd0Iecjt0/G66JSr54JvA==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "El Barista es responsable de la preparación de bebidas a base de café, tés, malteadas y otras especialidades, así como de atender a nuestros clientes y mantener limpio el lugar de trabajo. Esta es una posición únicamente de tiempo completo.",
+     "variations": []
+    }
+   ]
+  },
+  "8Pm7esp/+gf54h5wjnhtIA==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Cliente Misterioso",
+     "variations": []
+    }
+   ]
+  },
+  "BOp9L6wr5H8DAJ5jtd5J9g==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "El Cliente Misterios es responsable de garantizar que siempre proporcionemos los mejores servicios y productos a nuestros clientes. Lo hace visitando nuestra cafetería (en secreto) mientras pretende ser un cliente normal y después reportar cualquier observación.",
+     "variations": []
+    }
+   ]
+  },
+  "kOqAkB7LlUNdQoxTwvBwxA==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Desarrollador de software de código abierto",
+     "variations": []
+    }
+   ]
+  },
+  "9Cq74Se0+aoAOP/0rB9kZQ==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "El desarrollador de código abierto es responsable de desarrollar software que se ejecuta detrás KOCHKA Café.",
+     "variations": []
+    }
+   ]
+  },
+  "bEAH2l2l66pXNF6sed5woQ==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "¿Sabías que todo el software está disponible públicamente? {github link}.",
      "variations": []
     }
    ]
