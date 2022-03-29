@@ -311,6 +311,16 @@
     }
    ]
   },
+  "YPZm79WHjwd2E30wVWe3VA==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Empleos",
+     "variations": []
+    }
+   ]
+  },
   "sY3J2OVXDvprP9Yw1wPdWQ==": {
    "tokens": [],
    "types": [],
@@ -327,6 +337,46 @@
    "translations": [
     {
      "translation": "Tiempo completo",
+     "variations": []
+    }
+   ]
+  },
+  "UlvVrCqWYA+OrWslYYmc8A==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Puedes postularte en nuestro Banco de Talentos en caso de que estés interesado.",
+     "variations": []
+    }
+   ]
+  },
+  "54UcAAD/aCdp0ssaexfvTA==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Disponible",
+     "variations": []
+    }
+   ]
+  },
+  "UU5kEMYHicF1zn9DeP8QNw==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Esta posición no está disponible por el momento, sin embargo, te sugerimos enviar tus datos en nuestro Banco de Talentos en caso de que estés interesado y nos podremos poner en contacto contigo posteriormente.",
+     "variations": []
+    }
+   ]
+  },
+  "tEIYeVlKn5IC1LJpK2S4aw==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "No disponible",
      "variations": []
     }
    ]
@@ -437,6 +487,16 @@
    "translations": [
     {
      "translation": "Desarrollador de software de código abierto",
+     "variations": []
+    }
+   ]
+  },
+  "BBV+tJ0lbDfoiR6aqPvgJg==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "El desarrollador de código abierto es responsable de desarrollar el software que se ejecuta detrás de KOCHKA Café. Utilizamos Git, JavaScript, Rust y todo nuestro código está disponible públicamente {github link}.",
      "variations": []
     }
    ]
