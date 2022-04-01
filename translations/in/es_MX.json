@@ -381,6 +381,16 @@
     }
    ]
   },
+  "Q0LCVBMPiK9JJ/WYmxyX4g==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "{money} / mensual",
+     "variations": []
+    }
+   ]
+  },
   "Z1d6qX2L0fKBN6cEnxEOOw==": {
    "tokens": [],
    "types": [],
@@ -401,6 +411,16 @@
     }
    ]
   },
+  "mubLlA5AQxRA7td64tC29g==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Persona responsable de nuestras instalaciones y clientes (Ayudante General)",
+     "variations": []
+    }
+   ]
+  },
   "YWTm5M86w76d43pJKYXN7w==": {
    "tokens": [],
    "types": [],
@@ -411,12 +431,32 @@
     }
    ]
   },
+  "H8l+kJTbPzjEXskVb6pTvg==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Persona responsable de la preparación de bebidas (Barista)",
+     "variations": []
+    }
+   ]
+  },
   "lAd0Iecjt0/G66JSr54JvA==": {
    "tokens": [],
    "types": [],
    "translations": [
     {
      "translation": "El Barista es responsable de la preparación de bebidas a base de café, tés, malteadas y otras especialidades, así como de atender a nuestros clientes y mantener limpio el lugar de trabajo. Esta es vacante de tiempo completo únicamente.",
+     "variations": []
+    }
+   ]
+  },
+  "jsZid4+O30Jhr5fT06nf2w==": {
+   "tokens": [],
+   "types": [],
+   "translations": [
+    {
+     "translation": "Persona responsable de la preparación de alimentos",
      "variations": []
     }
    ]
