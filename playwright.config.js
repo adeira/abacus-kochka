@@ -8,7 +8,7 @@ const config = {
   reporter: process.env.CI ? 'github' : 'list',
   retries: process.env.CI ? 2 : 0,
   webServer: {
-    command: 'yarn run build && yarn run start',
+    command: process.env.CI ? 'yarn run build && yarn run start' : 'yarn run dev',
     port: 5002,
     timeout: 120 * 1000, // milliseconds
     reuseExistingServer: !process.env.CI,
